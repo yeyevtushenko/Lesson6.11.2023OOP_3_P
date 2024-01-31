@@ -37,6 +37,6 @@ user1.set_age(19)
 user1.set_email("john@doe123gmail.com")
 
 
-print("\nІм'я (після змін):", user1.get_name())
-print("Вік (після змін):", user1.get_age())
-print("Email (після змін):", user1.get_email())
+print("\nNew name:", user1.get_name())
+print("New age:", user1.get_age())
+print("New email:", user1.get_email())
